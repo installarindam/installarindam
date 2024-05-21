@@ -50,7 +50,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=installarindam&show_icons=true&theme=graywhite" alt="Arindam's GitHub stats">
 </p>
 
-<!-- Optional: Visitor count -->
+<!-- Optional: Visitor count 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=installarindam" alt="Visitors">
 </p>
+-->
